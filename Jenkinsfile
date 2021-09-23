@@ -6,7 +6,7 @@ pipeline {
    
      stage('Install Dependencies') { 
         steps { 
-           sh 'uname -r' 
+           sh 'hi this is ACG' 
         }
      }
      
